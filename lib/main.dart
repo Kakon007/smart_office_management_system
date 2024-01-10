@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smart_office_management_system/view/home_view.dart';
+import 'package:smart_office_management_system/view/home/home_view.dart';
 
 void main() {
   runApp(const MyApp());
